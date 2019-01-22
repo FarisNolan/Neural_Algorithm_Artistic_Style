@@ -4,9 +4,6 @@ Created on Thu Dec 27 08:33:31 2018
 
 @author: Faris
 """
-#-----TO DO-----
-#   -Update Image directories
-
 
 #-----IMPORTS AND DIRECTORIES-----
 import time
